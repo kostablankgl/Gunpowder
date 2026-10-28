@@ -1,0 +1,6 @@
+{
+  "name": "Конструкторское бюро: Оружейный инженер",
+  "description": "Экономическая и инженерная стратегия о проектировании стрелкового оружия, технических конкурсах и военном производстве.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
